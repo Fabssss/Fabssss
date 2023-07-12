@@ -1,5 +1,6 @@
 <div align="center">
-![hi](https://github.com/Fabssss/Fabssss/assets/69381745/b1c881aa-618b-4bb5-b079-02b3616756a5)
+  
+![hi](<img src="https://media.tenor.com/lw5QLh73u_MAAAAi/hi.gif" width="40" height="40" />)
 </div>
 <p align="center">
   <a href="https://github.com/Fabssss"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Fabiha+Makhdoomi;I+am+a+B.E.+Undergrad+student;"></a>
