@@ -1,6 +1,6 @@
 <div align="center">
   
-![hi](<img src="https://media.tenor.com/lw5QLh73u_MAAAAi/hi.gif" width="40" height="40" />)
+<div style="width:100%;height:0;padding-bottom:98%;position:relative;"><iframe src="https://giphy.com/embed/9C1nyePnovqlpEYFMD" width="50%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/justin-doge-dogecoin-9C1nyePnovqlpEYFMD">via GIPHY</a></p>
 </div>
 <p align="center">
   <a href="https://github.com/Fabssss"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Fabiha+Makhdoomi;I+am+a+B.E.+Undergrad+student;"></a>
