@@ -1,6 +1,7 @@
 <div align="center">
-  
-<div style="width:100%;height:0;padding-bottom:98%;position:relative;"><iframe src="https://giphy.com/embed/9C1nyePnovqlpEYFMD" width="50%" height="50%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/justin-doge-dogecoin-9C1nyePnovqlpEYFMD">via GIPHY</a></p>
+
+  https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRhaThvcW9ocXBoZnZrbXVrdHg5NGg4MzJtbnFwZzJ2NWxha2F0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9C1nyePnovqlpEYFMD/giphy.gif
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRhaThvcW9ocXBoZnZrbXVrdHg5NGg4MzJtbnFwZzJ2NWxha2F0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9C1nyePnovqlpEYFMD/giphy.gif" width="40" height="40" />
 </div>
 <p align="center">
   <a href="https://github.com/Fabssss"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Fabiha+Makhdoomi;I+am+a+B.E.+Undergrad+student;"></a>
