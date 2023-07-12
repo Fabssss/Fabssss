@@ -8,7 +8,7 @@
 ---
 <div align="center">
   
-# 💫About Me :
+# About Me :
 🔭 I’m currently working on a research paper
   
 🌱 I’m currently learning: Tensorflow/Keras
