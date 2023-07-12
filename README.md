@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWRhaThvcW9ocXBoZnZrbXVrdHg5NGg4MzJtbnFwZzJ2NWxha2F0NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9C1nyePnovqlpEYFMD/giphy.gif" width="40" height="40" />
+<img src="https://media.tenor.com/lw5QLh73u_MAAAAi/hi.gif" width="50" height="50" />
 </div>
 <p align="center">
   <a href="https://github.com/Fabssss"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Fabiha+Makhdoomi;I+am+a+B.E.+Undergrad+student;"></a>
