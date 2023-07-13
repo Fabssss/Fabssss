@@ -2,7 +2,7 @@
 <img src="https://media.tenor.com/lw5QLh73u_MAAAAi/hi.gif" width="50" height="50" />
 </div>
 <p align="center">
-  <a href="https://github.com/Fabssss"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Fabiha+Makhdoomi;I+am+a+B.E.+Undergrad+student;"></a>
+  <a href="https://github.com/Fabssss"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Fabiha+Makhdoomi;I+am+an+aspiring+Data+Scientist;"></a>
 </p>
 
 ---
