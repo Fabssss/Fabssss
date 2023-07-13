@@ -35,8 +35,8 @@
 ## Leetcode Stats
 ![Leetcode](https://badges.peiyuan.ch/leetcode/Fabssss/solved?difficulty=<value></value>)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabssss&theme=dark)
+
 
 
 ![](https://komarev.com/ghpvc/?username=Fabssss&label=Visitors+Count&color=brightgreen)
